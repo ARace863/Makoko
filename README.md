@@ -1,1 +1,7 @@
-Project for 2023 Moral Education project. Made By Abdur Rahman 9A
+For Geography project.
+Created by Abdur Rahman Aminuddin - 9A
+
+Add:
+
+-Images
+-Starter keynote pres
